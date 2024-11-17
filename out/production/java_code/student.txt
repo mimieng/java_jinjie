@@ -1,0 +1,7 @@
+name---lisi
+age---18
+sex---男
+id---1
+address---计算机
+phone---10086
+email---地球
